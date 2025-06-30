@@ -1,5 +1,5 @@
 # Global Sport Finance Power BI Dashboard
-![]()
+![](https://github.com/Ajay96700/Global-Sport-Finances-Power-BI/blob/main/Global%20sport%20Finance%20-%20Dashboard%20two.png)
 
 Yes, I can build a dashboard. But what about insights? I don’t want to just deliver something that looks good - I want to answer what the stakeholder needs to know, even if they haven’t asked it yet.
 
